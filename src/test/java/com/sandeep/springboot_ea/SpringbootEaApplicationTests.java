@@ -24,6 +24,9 @@ class SpringbootEaApplicationTests {
 
 //6
 		System.out.println("Test2 6");
+
+		//7
+		System.out.println("For Branch 3");
 	}
 
 }
