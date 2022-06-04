@@ -14,6 +14,8 @@ class SpringbootEaApplicationTests {
 		System.out.println("Test2 all");
 		//Second
 		System.out.println("Test2 second");
+		//3
+		System.out.println("Test2 3");
 
 
 	}
