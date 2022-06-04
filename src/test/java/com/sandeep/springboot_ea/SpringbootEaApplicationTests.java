@@ -8,6 +8,7 @@ class SpringbootEaApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//clear
 		System.out.println("Test1");
 
 
