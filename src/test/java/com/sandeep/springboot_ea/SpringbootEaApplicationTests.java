@@ -20,9 +20,10 @@ class SpringbootEaApplicationTests {
 		System.out.println("Test2 4");
 
 		//5
-		System.out.println("Test2 4");
+		System.out.println("Test2 5");
 
-
+//6
+		System.out.println("Test2 6");
 	}
 
 }
