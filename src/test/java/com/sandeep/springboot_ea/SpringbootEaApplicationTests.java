@@ -28,9 +28,6 @@ class SpringbootEaApplicationTests {
 		//7
 		System.out.println("For Branch 3");
 
-		//7
-		System.out.println("For Branch 3");
-
 		System.out.println("For Branch 3- sec commit");
 	}
 
