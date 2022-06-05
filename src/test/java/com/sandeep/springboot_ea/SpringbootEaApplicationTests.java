@@ -37,11 +37,5 @@ class SpringbootEaApplicationTests {
 
 //Test change s
 
-// All code new
-
-	//Testing with new changes
-
-	//New on Branch3
-	// new branch3 -123
 
 }
