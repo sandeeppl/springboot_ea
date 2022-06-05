@@ -11,39 +11,8 @@ class SpringbootEaApplicationTests {
 		//clear
 		System.out.println("Test1");
 		System.out.println("Test2");
-		System.out.println("Test2 all");
-		//Second
-		System.out.println("Test2 second");
-		//3
-		System.out.println("Test2 3");
-		//4
-		System.out.println("Test2 4");
 
-		//5
-		System.out.println("Test2 5");
-
-//6
-		System.out.println("Test2 6");
-
-		//7
-		System.out.println("For Branch 3");
-
-		System.out.println("For Branch 3- sec commit");
-
-		System.out.println("Master commit12");
 
 	}
-
-
-
-
-
-	//Testing with new changes 123
-// All code new
-
-	//Testing with new changes
-
-	//New on Branch3
-	// new branch3 -123
 
 }
